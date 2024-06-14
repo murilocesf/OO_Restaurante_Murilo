@@ -90,7 +90,7 @@ class Restaurante:
 
 #restaurante_praca=Restaurante('Praça','Gourmet')
 
-#restaurante_pizza=Restaurante('Pizza Express','Italiana')
+#restaurante_pizza=Restaurante('Pizza Express','Muchachos')
 
 
 
